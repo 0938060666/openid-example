@@ -14,4 +14,3 @@ define('PIXNET_OPENID', 'https://openid.pixnet.cc');
 define('TRUSTED_ROOT', 'http://example.com'); // please change this
 define('RETURN_TO', TRUSTED_ROOT .'/openid/finish.php'); // please change this
 
-?>
